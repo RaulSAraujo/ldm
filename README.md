@@ -1,6 +1,6 @@
 # 📋 Projeto Avaliativo: Gerenciador de Tarefas (Backend)
 
-## ✨ Equipe
+✨ Equipe
 * Raul silva araujo
 * João pedro borges araujo
 
