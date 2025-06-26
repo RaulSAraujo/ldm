@@ -1,8 +1,10 @@
 # 📋 Projeto Avaliativo: Gerenciador de Tarefas (Backend)
 
 ## ✨ Equipe
-Raul silva araujo
-João pedro borges araujo
+* Raul silva araujo
+* João pedro borges araujo
+
+##
 
 Este projeto consiste em uma aplicação backend simples para o gerenciamento de tarefas diárias, desenvolvida como parte de um projeto avaliativo de Laboratório de Desenvolvimento Multiplataforma. Ele permite realizar operações CRUD (Create, Read, Update, Delete) em tarefas, utilizando tecnologias modernas do ecossistema Java.
 
